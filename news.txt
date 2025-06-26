@@ -2,7 +2,7 @@
 
 ## 🚀 Novidades - Versão 2.1.0
 
-<div style="background-color: #f8f9fa; border-radius: 10px; padding: 15px; margin: 10px 0;">
+<div style="border-radius: 10px; padding: 15px; margin: 10px 0;">
 
 ### ✨ Novas Funcionalidades
 - ✅ Sistema de novidades automático via GitHub
@@ -13,7 +13,7 @@
 
 ---
 
-<div style="background-color: #e7f3ff; border-left: 4px solid #007BFF; padding: 15px; margin: 10px 0;">
+<div style="border-left: 4px solid #007BFF; padding: 15px; margin: 10px 0;">
 
 ### 🐛 Correções
 - Resolvido problema de duplicação de emoji
@@ -23,7 +23,7 @@
 
 ---
 
-<div style="background-color: #fff3cd; border-radius: 8px; padding: 15px; text-align: center;">
+<div style="border-radius: 8px; padding: 15px; text-align: center;">
 
 ### 📅 Próximas Atualizações
 **Em breve:**
