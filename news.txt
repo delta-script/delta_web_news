@@ -1,2 +1,22 @@
-Novidades da Versão!!! ✅
-em breve teremos novidades...
+## 🚀 Novidades - Versão 2.1.0
+
+### ✨ Novas Funcionalidades
+- ✅ Sistema de novidades automático via GitHub
+- 📊 Melhorias nos relatórios
+- 🔄 Cache inteligente de 1 hora
+
+---
+
+### 🐛 Correções
+- Resolvido problema de duplicação de emoji
+- Otimização de performance
+
+### 📅 Próximas Atualizações
+Em breve:
+- 🔔 Notificações push
+- 📱 Versão mobile
+- 🎨 Temas personalizados
+
+---
+
+**💡 Dica:** Pressione F5 para ver as últimas atualizações!
