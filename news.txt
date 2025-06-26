@@ -1,44 +1,41 @@
-<div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 20px;">
+<div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 20px; font-family: 'Segoe UI', sans-serif;">
 
-## 🚀 Novidades - Versão 2.1.0
+<h2 style="color: #4CAF50;">🚀 Novidades - Versão 2.1.0</h2>
 
-<div style="border-radius: 10px; padding: 15px; margin: 10px 0;">
-
-### ✨ Novas Funcionalidades
-- ✅ Sistema de novidades automático via GitHub
-- 📊 Melhorias nos relatórios  
-- 🔄 Cache inteligente
-
+<div style="background-color: #f9f9f9; border-radius: 12px; padding: 20px; margin-top: 20px;">
+    <h3 style="color: #333;">✨ Novas Funcionalidades</h3>
+    <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
+        <li>✅ Sistema de novidades automático via GitHub</li>
+        <li>📊 Melhorias nos relatórios</li>
+        <li>🔄 Cache inteligente</li>
+    </ul>
 </div>
 
----
-
-<div style="border-left: 4px solid #007BFF; padding: 15px; margin: 10px 0;">
-
-### 🐛 Correções
-- Resolvido problema de duplicação de emoji
-- Otimização de performance
-
+<div style="background-color: #eef4ff; border-left: 6px solid #007BFF; border-radius: 8px; padding: 20px; margin-top: 20px;">
+    <h3 style="color: #007BFF;">🐛 Correções</h3>
+    <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
+        <li>✔️ Resolvido problema de duplicação de emoji</li>
+        <li>⚙️ Otimização de performance</li>
+    </ul>
 </div>
 
----
-
-<div style="border-radius: 8px; padding: 15px; text-align: center;">
-
-### 📅 Próximas Atualizações
-**Em breve:**
-- 🔔 Notificações push
-- 📱 Versão mobile  
-- 🎨 Temas personalizados
-
-[🗺️ Ver roadmap completo](https://github.com/delta-script/delta_web_news/projects)
-
+<div style="background-color: #fff3cd; border-radius: 10px; padding: 20px; margin-top: 20px;">
+    <h3 style="color: #856404;">📅 Próximas Atualizações</h3>
+    <p style="font-size: 16px;"><strong>Em breve:</strong></p>
+    <ul style="list-style-type: none; padding-left: 0; font-size: 16px;">
+        <li>🔔 Notificações push</li>
+        <li>📱 Versão mobile</li>
+        <li>🎨 Temas personalizados</li>
+    </ul>
+    <p style="margin-top: 10px;">
+        <a href="https://github.com/delta-script/delta_web_news/projects" target="_blank" style="text-decoration: none; color: #0056b3;">
+            🗺️ Ver roadmap completo
+        </a>
+    </p>
 </div>
 
----
-
-<div style="text-align: center; font-size: 14px; color: #666; margin-top: 20px;">
-💡 <strong>Dica:</strong> Pressione F5 para ver as últimas atualizações!
+<div style="margin-top: 30px; font-size: 14px; color: #666;">
+    💡 <strong>Dica:</strong> Pressione F5 para ver as últimas atualizações!
 </div>
 
 </div>
