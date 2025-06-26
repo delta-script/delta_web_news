@@ -5,6 +5,8 @@
 - 📊 Melhorias nos relatórios
 - 🔄 Cache inteligente de 1 hora
 
+[🚀 Acompanhe o roadmap no GitHub](https://github.com/delta-script/delta_web_news/projects)
+
 ---
 
 ### 🐛 Correções
